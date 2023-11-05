@@ -1,0 +1,17 @@
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\emreg\source\repos\BlogBitirmeProjesi\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
